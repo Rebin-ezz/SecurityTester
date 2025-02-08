@@ -1,2 +1,1 @@
-# SecurityTester
-Anjay
+SecurityTester
